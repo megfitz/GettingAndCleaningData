@@ -10,9 +10,11 @@ Version 1.0
 Meaghan Fitzgerald
 meaghan@thetopfloorflat.com
 Produced for the Coursera course Getting and Cleaning Data offered in association with Johns Hopkins University
+
+The purpose of this R script
 =============================================================
 
-The purpose of this R script is to receive the Human Activity Recognition Using Smartphones Dataset (Jorge L. Reyes-Ortiz, 
+Receive the Human Activity Recognition Using Smartphones Dataset (Jorge L. Reyes-Ortiz, 
 
 Davide Anguita, Alessandro Ghio, Luca Oneto) data set available at https://d396qusza40orc.cloudfront.net/getdata
 
