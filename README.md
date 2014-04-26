@@ -3,10 +3,11 @@ GettingAndCleaningData
 
 Files and scripts associated with the programming assignments for the Getting and Cleaning Data course from Coursera and Johns Hopkins University
 
-=============================================================
+
 run_analysis.R
-Version 1.0
 =============================================================
+
+Version 1.0
 Meaghan Fitzgerald
 meaghan@thetopfloorflat.com
 Produced for the Coursera course Getting and Cleaning Data offered in association with Johns Hopkins University
